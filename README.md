@@ -1,3 +1,6 @@
+https://vercel.com/culturallifes-projects/linkedin-clone
+this is the live deployment of the app, still in work, however the likes, post and comment functionalities are working. You can log in with your gmail id or githb id and post pictures. Thank you for your interactions. ☺
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
